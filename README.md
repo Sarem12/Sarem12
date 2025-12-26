@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78A67&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2CI+am++Sarem+Ketema;And+I+love+coding)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<br><br>  <br> 🙍‍♂️ I am a high school student who is dedicated to programing <br>  🔭I’m currently working On building my own ORM (Object-Relational Mapper). & mathematical research research about P and NP <br><br>   🌱 I’m currently learning express js<br><br>    💬Ask me about: .NET, Unity, HTML, CSS, JavaScript, and Node.js.<br><br>    📫 Contact me: saremketema12@gmail.com & saremketema21@gmail.com<br> <br> ⚡ Ever since I can remember, I've been drawn to computers. Becoming a programmer wasn't a choice—it was just my path.
+<br><br>  <br> 🙍‍♂️ I am a high school student who is dedicated to programing <br>  🔭I’m currently working On building my own ORM (Object-Relational Mapper). & mathematical research research about P and NP <br><br>   🌱 I’m currently learning express js,sql database & rust <br><br>    💬Ask me about: .NET, Unity, HTML, CSS, JavaScript, and Node.js.<br><br>    📫 Contact me: saremketema12@gmail.com & saremketema21@gmail.com<br> <br> ⚡ Ever since I can remember, I've been drawn to computers. Becoming a programmer wasn't a choice—it was just my path.
 
 
 ## 🌐 Socials:
